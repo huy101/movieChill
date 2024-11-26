@@ -1,0 +1,14 @@
+# Bỏ qua file môi trường
+.env.local
+
+# Bỏ qua thư mục build
+.next/
+
+# Bỏ qua thư mục phụ thuộc
+node_modules/
+
+# Bỏ qua file log
+*.log
+
+# Bỏ qua file lock
+*.lock
